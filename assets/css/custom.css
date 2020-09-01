@@ -1,0 +1,12 @@
+/*==================================================================================
+    Custom Stylesheet (Any custom styling you want to apply should be defined here).
+====================================================================================*/
+
+.banner-slider-cover {
+    min-height: auto !important;
+    padding: 30px 0 !important;
+}
+
+a:hover h1 {
+    color: #FF7171 !important;
+}
