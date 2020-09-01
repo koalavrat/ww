@@ -78,7 +78,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <!-- Logo -->
                     <h2 class="logo text-uppercase">
-                        <a href="index.html">Beauty and health bloggenericname</a>
+                        <a href="index.php">Beauty and health bloggenericname</a>
                     </h2>
                     <!-- End of Logo -->
                 </div>
@@ -87,31 +87,31 @@
                     <!-- Nav Menu -->
                     <div class="nav-menu-cover">
                         <ul class="nav nav-menu">
-                            <li><a href="index.html">Utama</a></li>
+                            <li><a href="index.php">Utama</a></li>
                             <li class="menu-item-has-children"><a href="#">Artikel</a>
                                 <ul class="sub-menu">
                                     
-                                    <li><a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html">Mengapa makan kan? Die...</a></li>
+                                    <li><a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php">Mengapa makan kan? Die...</a></li>
                                     
 
-                                    <li><a href="VgHIrWH9ykENTvOP.html">Nutrisi dan kalori dal...</a></li>
+                                    <li><a href="VgHIrWH9ykENTvOP.php">Nutrisi dan kalori dal...</a></li>
                                     
 
-                                    <li><a href="7ef819836936717de521e05d22f29db8.html">Coronavirus dan vitami...</a></li>
+                                    <li><a href="7ef819836936717de521e05d22f29db8.php">Coronavirus dan vitami...</a></li>
                                     
 
-                                    <li><a href="686da7929c022398b3a104c8c7ca8ff5.html">Bagaimana untuk mengur...</a></li>
+                                    <li><a href="686da7929c022398b3a104c8c7ca8ff5.php">Bagaimana untuk mengur...</a></li>
                                     
 
-                                    <li><a href="lMZWCfdqo7MFwpHcbqS.html">[Hari 16] bagaimana me...</a></li>
+                                    <li><a href="lMZWCfdqo7MFwpHcbqS.php">[Hari 16] bagaimana me...</a></li>
                                     
 
-                                    <li><a href="15912c9177d28134e63a438a69d59a45.html">Usia-alasan untuk kele...</a></li>
+                                    <li><a href="15912c9177d28134e63a438a69d59a45.php">Usia-alasan untuk kele...</a></li>
                                     
 
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Kontak</a></li>
+                            <li><a href="contact.php">Kontak</a></li>
                         </ul>
                     </div>
                     <!-- End of Nav Menu -->
@@ -149,7 +149,7 @@
                     <div class="col-md-6 order-2 order-md-1">
                         <!-- Banner Text -->
                         <div class="banner-slide-text">
-                            <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html"><h1>Mengapa makan kan? Die...</h1></a>
+                            <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php"><h1>Mengapa makan kan? Die...</h1></a>
                             <p class="desc"> <strong></strong><figure><div><div></div><div><img></div><div></div></div><meta><figcaption><span> Home perencanaan lebih MUDAH!</span></figcaption></figure><p><span>Nah, yang telah melarikan diri untuk liburan mei dari apartemen sempit untuk cottage, makan kebab harum, segala macam lezat "meriah" ...</p>
                         </div>
                         <!-- End of Banner Text -->
@@ -157,7 +157,7 @@
                     <div class="col-md-6 order-1 order-md-2">
                         <!-- Banner Image -->
                         <div class="banner-slide-image">
-                            <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html"><img alt="" class="img-fluid" src="./img/juan-jose-valencia-antia-ttrjmhrkoey-unsplash.jpg"></a>
+                            <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php"><img alt="" class="img-fluid" src="./img/juan-jose-valencia-antia-ttrjmhrkoey-unsplash.jpg"></a>
                         </div>
                         <!-- End of Banner Image -->
                     </div>
@@ -172,7 +172,7 @@
                     <div class="col-md-6 order-2 order-md-1">
                         <!-- Banner Text -->
                         <div class="banner-slide-text">
-                            <a href="VgHIrWH9ykENTvOP.html"><h1>Nutrisi dan kalori dal...</h1></a>
+                            <a href="VgHIrWH9ykENTvOP.php"><h1>Nutrisi dan kalori dal...</h1></a>
                             <p class="desc"> <strong></strong><p><span>Pisang adalah buah anda untuk hidup sehat. 110 kalori gizi per porsi (1 pisang seberat 126 gram pisang berukuran sedang). Hal ini sangat lezat dan sehat!</span></p><figure><div><div></div><div><img></div><div></div></div><meta><figcaption><span>Anda bahkan tidak bisa memba...</p>
                         </div>
                         <!-- End of Banner Text -->
@@ -180,7 +180,7 @@
                     <div class="col-md-6 order-1 order-md-2">
                         <!-- Banner Image -->
                         <div class="banner-slide-image">
-                            <a href="VgHIrWH9ykENTvOP.html"><img alt="" class="img-fluid" src="./img/toa-heftiba-2bgl3ydxjzs-unsplash.jpg"></a>
+                            <a href="VgHIrWH9ykENTvOP.php"><img alt="" class="img-fluid" src="./img/toa-heftiba-2bgl3ydxjzs-unsplash.jpg"></a>
                         </div>
                         <!-- End of Banner Image -->
                     </div>
@@ -195,7 +195,7 @@
                     <div class="col-md-6 order-2 order-md-1">
                         <!-- Banner Text -->
                         <div class="banner-slide-text">
-                            <a href="7ef819836936717de521e05d22f29db8.html"><h1>Coronavirus dan vitami...</h1></a>
+                            <a href="7ef819836936717de521e05d22f29db8.php"><h1>Coronavirus dan vitami...</h1></a>
                             <p class="desc"> <strong></strong><p><span>  </span></p><p><span>Beberapa hari yang lalu, saya membaca sebuah artikel tentang pencegahan infeksi coronavirus. Hal </span><span></span><a>ini disebut "Bukti bahwa mengkonsumsi vitamin D dapat mengurangi risiko flu dan COVID-19 infeksi dan kematian dari mereka"</a><span...</p>
                         </div>
                         <!-- End of Banner Text -->
@@ -203,7 +203,7 @@
                     <div class="col-md-6 order-1 order-md-2">
                         <!-- Banner Image -->
                         <div class="banner-slide-image">
-                            <a href="7ef819836936717de521e05d22f29db8.html"><img alt="" class="img-fluid" src="./img/kate-hliznitsova-zigxiq4gzbu-unsplash.jpg"></a>
+                            <a href="7ef819836936717de521e05d22f29db8.php"><img alt="" class="img-fluid" src="./img/kate-hliznitsova-zigxiq4gzbu-unsplash.jpg"></a>
                         </div>
                         <!-- End of Banner Image -->
                     </div>
@@ -238,14 +238,14 @@
                     <div class="post-default post-has-right-thumb">
                         <div class="d-flex flex-wrap">
                             <div class="post-thumb align-self-stretch order-md-2">
-                                <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html">
+                                <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php">
                                     <div data-bg-img="./img/juan-jose-valencia-antia-ttrjmhrkoey-unsplash.jpg"></div>
                                 </a>
                             </div>
                             <div class="post-data order-md-1">
                                 <!-- Title -->
                                 <div class="title">
-                                    <h2><a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html">Mengapa makan kan? Diet vs PP. Hanya hal-hal yang sulit😉</a></h2>
+                                    <h2><a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php">Mengapa makan kan? Diet vs PP. Hanya hal-hal yang sulit😉</a></h2>
                                 </div>
                                 <!-- Post Meta -->
                                 <ul class="nav meta align-items-center">
@@ -276,14 +276,14 @@
                     <div class="post-default post-has-right-thumb">
                         <div class="d-flex flex-wrap">
                             <div class="post-thumb align-self-stretch order-md-2">
-                                <a href="VgHIrWH9ykENTvOP.html">
+                                <a href="VgHIrWH9ykENTvOP.php">
                                     <div data-bg-img="./img/toa-heftiba-2bgl3ydxjzs-unsplash.jpg"></div>
                                 </a>
                             </div>
                             <div class="post-data order-md-1">
                                 <!-- Title -->
                                 <div class="title">
-                                    <h2><a href="VgHIrWH9ykENTvOP.html">Nutrisi dan kalori dalam 1 buah pisang</a></h2>
+                                    <h2><a href="VgHIrWH9ykENTvOP.php">Nutrisi dan kalori dalam 1 buah pisang</a></h2>
                                 </div>
                                 <!-- Post Meta -->
                                 <ul class="nav meta align-items-center">
@@ -314,14 +314,14 @@
                     <div class="post-default post-has-right-thumb">
                         <div class="d-flex flex-wrap">
                             <div class="post-thumb align-self-stretch order-md-2">
-                                <a href="7ef819836936717de521e05d22f29db8.html">
+                                <a href="7ef819836936717de521e05d22f29db8.php">
                                     <div data-bg-img="./img/kate-hliznitsova-zigxiq4gzbu-unsplash.jpg"></div>
                                 </a>
                             </div>
                             <div class="post-data order-md-1">
                                 <!-- Title -->
                                 <div class="title">
-                                    <h2><a href="7ef819836936717de521e05d22f29db8.html">Coronavirus dan vitamin D.</a></h2>
+                                    <h2><a href="7ef819836936717de521e05d22f29db8.php">Coronavirus dan vitamin D.</a></h2>
                                 </div>
                                 <!-- Post Meta -->
                                 <ul class="nav meta align-items-center">
@@ -352,14 +352,14 @@
                     <div class="post-default post-has-right-thumb">
                         <div class="d-flex flex-wrap">
                             <div class="post-thumb align-self-stretch order-md-2">
-                                <a href="686da7929c022398b3a104c8c7ca8ff5.html">
+                                <a href="686da7929c022398b3a104c8c7ca8ff5.php">
                                     <div data-bg-img="./img/mihai-stefan-ic6xpmk3fo0-unsplash.jpg"></div>
                                 </a>
                             </div>
                             <div class="post-data order-md-1">
                                 <!-- Title -->
                                 <div class="title">
-                                    <h2><a href="686da7929c022398b3a104c8c7ca8ff5.html">Bagaimana untuk mengurangi pinggang anda? 3 langkah untuk pinggang yang sempit.</a></h2>
+                                    <h2><a href="686da7929c022398b3a104c8c7ca8ff5.php">Bagaimana untuk mengurangi pinggang anda? 3 langkah untuk pinggang yang sempit.</a></h2>
                                 </div>
                                 <!-- Post Meta -->
                                 <ul class="nav meta align-items-center">
@@ -390,14 +390,14 @@
                     <div class="post-default post-has-right-thumb">
                         <div class="d-flex flex-wrap">
                             <div class="post-thumb align-self-stretch order-md-2">
-                                <a href="lMZWCfdqo7MFwpHcbqS.html">
+                                <a href="lMZWCfdqo7MFwpHcbqS.php">
                                     <div data-bg-img="./img/isabell-winter-t7_cn7g5ara-unsplash.jpg"></div>
                                 </a>
                             </div>
                             <div class="post-data order-md-1">
                                 <!-- Title -->
                                 <div class="title">
-                                    <h2><a href="lMZWCfdqo7MFwpHcbqS.html">[Hari 16] bagaimana mempersiapkan untuk pesta liburan jika anda menurunkan berat badan</a></h2>
+                                    <h2><a href="lMZWCfdqo7MFwpHcbqS.php">[Hari 16] bagaimana mempersiapkan untuk pesta liburan jika anda menurunkan berat badan</a></h2>
                                 </div>
                                 <!-- Post Meta -->
                                 <ul class="nav meta align-items-center">
@@ -428,14 +428,14 @@
                     <div class="post-default post-has-right-thumb">
                         <div class="d-flex flex-wrap">
                             <div class="post-thumb align-self-stretch order-md-2">
-                                <a href="15912c9177d28134e63a438a69d59a45.html">
+                                <a href="15912c9177d28134e63a438a69d59a45.php">
                                     <div data-bg-img="./img/ayo-ogunseinde-975db4ebky0-unsplash.jpg"></div>
                                 </a>
                             </div>
                             <div class="post-data order-md-1">
                                 <!-- Title -->
                                 <div class="title">
-                                    <h2><a href="15912c9177d28134e63a438a69d59a45.html">Usia-alasan untuk kelengkapan Kebenaran atau mitos?</a></h2>
+                                    <h2><a href="15912c9177d28134e63a438a69d59a45.php">Usia-alasan untuk kelengkapan Kebenaran atau mitos?</a></h2>
                                 </div>
                                 <!-- Post Meta -->
                                 <ul class="nav meta align-items-center">
@@ -544,13 +544,13 @@
                                 <div class="wrp-cover">
                                     <!-- Post Thumbnail -->
                                     <div class="post-thumb">
-                                        <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html">
+                                        <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php">
                                             <img alt="" class="img-fluid" src="./img/juan-jose-valencia-antia-ttrjmhrkoey-unsplash.jpg">
                                         </a>
                                     </div>
                                     <!-- Post Title -->
                                     <div class="post-title">
-                                        <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.html">Mengapa makan kan? Diet vs PP. Hanya hal-hal yang sulit😉</a>
+                                        <a href="ehRcxnFNCVlMmH9nMFJzkIzC4Tzu.php">Mengapa makan kan? Diet vs PP. Hanya hal-hal yang sulit😉</a>
                                     </div>
                                 </div>
                                 
@@ -559,13 +559,13 @@
                                 <div class="wrp-cover">
                                     <!-- Post Thumbnail -->
                                     <div class="post-thumb">
-                                        <a href="VgHIrWH9ykENTvOP.html">
+                                        <a href="VgHIrWH9ykENTvOP.php">
                                             <img alt="" class="img-fluid" src="./img/toa-heftiba-2bgl3ydxjzs-unsplash.jpg">
                                         </a>
                                     </div>
                                     <!-- Post Title -->
                                     <div class="post-title">
-                                        <a href="VgHIrWH9ykENTvOP.html">Nutrisi dan kalori dalam 1 buah pisang</a>
+                                        <a href="VgHIrWH9ykENTvOP.php">Nutrisi dan kalori dalam 1 buah pisang</a>
                                     </div>
                                 </div>
                                 
@@ -574,13 +574,13 @@
                                 <div class="wrp-cover">
                                     <!-- Post Thumbnail -->
                                     <div class="post-thumb">
-                                        <a href="7ef819836936717de521e05d22f29db8.html">
+                                        <a href="7ef819836936717de521e05d22f29db8.php">
                                             <img alt="" class="img-fluid" src="./img/kate-hliznitsova-zigxiq4gzbu-unsplash.jpg">
                                         </a>
                                     </div>
                                     <!-- Post Title -->
                                     <div class="post-title">
-                                        <a href="7ef819836936717de521e05d22f29db8.html">Coronavirus dan vitamin D.</a>
+                                        <a href="7ef819836936717de521e05d22f29db8.php">Coronavirus dan vitamin D.</a>
                                     </div>
                                 </div>
                                 
@@ -614,7 +614,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <!-- Newsletter Form -->
-                    <form action="thanks.html">
+                    <form action="thanks.php">
                         <div class="input-group">
                             <input class="form-control" placeholder="Surel" type="text">
                             <div class="input-group-append">
@@ -648,16 +648,16 @@
                     <div class="collapse navbar-collapse justify-content-left" id="yummyfood-footer-nav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="index.html">Utama <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="index.php">Utama <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Kontak</a>
+                                <a class="nav-link" href="contact.php">Kontak</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="terms.html">Terms and conditions</a>
+                                <a class="nav-link" href="terms.php">Terms and conditions</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="policy.html">Kebijakan Privasi</a>
+                                <a class="nav-link" href="policy.php">Kebijakan Privasi</a>
                             </li>
                         </ul>
                     </div>
